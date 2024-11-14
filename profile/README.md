@@ -1,11 +1,9 @@
 # [숨비소리] 제주 해녀 문화보존 프로젝트
 
-- 주제 | `제주` `클라우드` `소셜임팩트`
 - 배포 링크 | [https://www.sumbisori.site](https://www.sumbisori.site/login)
 - 팀 구성 | `기획자` `디자이너` `프론트엔드 개발자` `백엔드 개발자`
 - Tools | `Figma`
 - Skills | `React` `Unity` `Spring boot` `MariaDB`
-- Github | [https://github.com/sumbisori](https://github.com/sumbisori)
 - 기수 | `11기`
 
 ---
@@ -187,6 +185,7 @@
 ## **서비스 소개 Introduction**
 
 <aside>
+  
 **숨비소리**는 평소 해양스포츠를 즐겨하는 이들에게 제주 해녀 체험을 해양문화로 즐길 수 있는 경험을 제공해요.
 </aside>
 
@@ -196,9 +195,11 @@
 
 </aside>
 
-[https://youtu.be/OiBJ7xsDf8Y](https://youtu.be/OiBJ7xsDf8Y)
+[![Video Label](https://github.com/user-attachments/assets/c69c639a-5065-4965-b7f4-5401e21d1e4f)](https://youtu.be/OiBJ7xsDf8Y)
 
-### 서비스 화면
+<details>
+<summary>서비스 화면</summary>
+<div markdown="1">
 
 ![로그인](Login.png)
 
@@ -206,8 +207,7 @@
 
 ---
 
-
-![메인화면](Main.png)
+![메인화면](https://github.com/user-attachments/assets/16844124-0b48-4cd6-b955-99dc8c9b2f48)
 
 메인화면
 
@@ -267,6 +267,8 @@
 
 물질도감(무)
 
+</details>
+
 ## **핵심 기능** Function
 
 ### **1. 해녀체험 장소 확인 및 예약하기**
@@ -283,7 +285,7 @@
 
 ![style_guide.png](style_guide.png)
 
-## **개발 DEVELOPMENT**
+## 개발 DEVELOPMENT
 
 ### **시스템 아키텍쳐 System Architecture**
 
