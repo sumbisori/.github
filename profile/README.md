@@ -1,6 +1,6 @@
 # [숨비소리] 제주 해녀 문화보존 프로젝트
 
-- 배포 링크 | [https://www.sumbisori.site](https://www.sumbisori.site/login)
+- 배포 링크 | [https://www.sumbisori.site](https://www.sumbisori.site)
 - 팀 구성 | `기획자` `디자이너` `프론트엔드 개발자` `백엔드 개발자`
 - Tools | `Figma`
 - Skills | `React` `Unity` `Spring boot` `MariaDB`
